@@ -9,7 +9,7 @@ This script mimics a basic terminal with various commands. It provides a interac
 ## How to Run
 
 1. Ensure you have Python installed on your system.
-2. Run the script using: `python test.py`
+2. Run the script using: `python terminal-V1.0.py`
 
 ## Available Commands
 
