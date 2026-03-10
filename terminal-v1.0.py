@@ -42,7 +42,7 @@ while True:
         print("Release: " + platform.release())
         print("Version: " + platform.version())
         print("Machine: " + platform.machine())
-        print("Processor: " + platform.processor())
+        print("Processor: " + (platform.processor() or "Unknown"))
     elif cmd == "uptime":
         import os
         os.system("uptime")
